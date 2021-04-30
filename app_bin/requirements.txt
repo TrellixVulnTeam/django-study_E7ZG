@@ -98,7 +98,7 @@ pytz==2018.9
 query==0.1.4
 requests==2.21.0
 requests-oauthlib==1.2.0
-rsa==4.0
+rsa==4.7
 s3transfer==0.2.1
 semver==2.7.2
 sendgrid==6.1.0
